@@ -1,4 +1,21 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdalwyn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cdalwyn&hide=contribs,prs&show_icons=true&include_all_commits=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+<div class="wrap" style="overflow-x: auto;overflow-y: hidden; ">
+<a href="https://github.com/cdalwyn/mvvmcomponent">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cdalwyn&repo=mvvmcomponent&theme=graywhite" width = 400px/>
+</a>
+
+<a href="https://github.com/cdalwyn/BaseMvvmScaffold">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cdalwyn&repo=BaseMvvmScaffold&theme=graywhite" width = 400px/>
+</a>
+  
+</div>
+
+
+**联系我**
+---
+* wechat：cd_alwyn
+*  email: cdalwyn@qq.com
 <!--
 **cdalwyn/cdalwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
