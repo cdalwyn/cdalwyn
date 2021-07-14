@@ -2,11 +2,11 @@
 
 <div class="wrap" style="overflow-x: auto;overflow-y: hidden; ">
 <a href="https://github.com/cdalwyn/mvvmcomponent">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cdalwyn&repo=mvvmcomponent&theme=graywhite" width = 400px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cdalwyn&repo=mvvmcomponent&theme=vue" width = 400px/>
 </a>
 
 <a href="https://github.com/cdalwyn/BaseMvvmScaffold">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cdalwyn&repo=BaseMvvmScaffold&theme=graywhite" width = 400px/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cdalwyn&repo=BaseMvvmScaffold&theme=vue" width = 400px/>
 </a>
   
 </div>
