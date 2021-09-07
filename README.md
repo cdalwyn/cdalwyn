@@ -14,7 +14,6 @@
 
 **联系我**
 ---
-* wechat：cd_alwyn
 *  email: cdalwyn@qq.com
 <!--
 **cdalwyn/cdalwyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
